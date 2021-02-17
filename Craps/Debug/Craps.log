@@ -1,0 +1,3 @@
+﻿  Craps.cpp
+D:\VS++\Craps\Craps\Craps\Craps.cpp(96,30): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Craps.vcxproj -> D:\VS++\Craps\Craps\Debug\Craps.exe
